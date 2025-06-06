@@ -1,7 +1,5 @@
 # 🔐 Création et évaluation de la sécurité d'une machine virtuelle Ubuntu sur Azure
 
-Projet réalisé dans le cadre du cours **CYB1123 – Sécurité de l’infonuagique et des services Web** à l’Université du Québec en Outaouais.
-
 ## 🎯 Objectif
 
 Ce projet vise à documenter toutes les étapes de la création et de l’analyse de sécurité d'une VM Ubuntu 24.04 nommée `Ubuntu-Pro-24.04` hébergée sur **Microsoft Azure**, avec des réflexions sur les risques, les bonnes pratiques, et les mesures de sécurité à mettre en place.
